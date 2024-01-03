@@ -16,7 +16,7 @@ const brownTheme = {
     text: '#fff',
 }
 
-const theme = {
+export {
     defaultTheme,
     darkTheme,
     brownTheme,

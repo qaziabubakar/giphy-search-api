@@ -46,5 +46,10 @@ const robotoFont = {
     bold: 'Roboto-Bold',
 }
 
+const openSansFont = {
+    regular: 'OpenSans-Regular',
+    medium: 'OpenSans-Medium',
+    bold: 'OpenSans-Bold',
+}
 
-export { fontWeights, fontSizes, lineHeights, letterSpacings, robotoFont };
+export { fontWeights, fontSizes, lineHeights, letterSpacings, robotoFont, openSansFont };
